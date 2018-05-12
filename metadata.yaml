@@ -1,0 +1,31 @@
+_repo: Jemima-Placidor-The-Advantage-of-Good-Nature_37514
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kilner, Mary Ann
+    aliases:
+    - Slinn, Sarah
+    - Kilner, Mary Jane
+    birthdate: 1753
+    deathdate: 1831
+    gutenberg_agent_id: '38892'
+    url: http://www.gutenberg.org/2009/agents/38892
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Ann_Kilner
+description: ''
+gutenberg_issued: '2011-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37514'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile literature'
+- !lcsh 'Contentment -- Juvenile literature'
+title: Jemima Placid; or, The Advantage of Good-Nature
+url: http://www.gutenberg.org/ebooks/37514
